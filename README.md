@@ -88,6 +88,8 @@ O servidor será iniciado em: http://localhost:3000
   ]
 }
 ```
+Resultado demonstrado pelo Postman:
+
 <img width="1111" height="1063" alt="image" src="https://github.com/user-attachments/assets/d7f96fa9-6037-46a4-a406-16df44c0200b" />
 
 
